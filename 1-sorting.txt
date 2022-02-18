@@ -1,0 +1,7 @@
+* Step 1: Start
+* Step 2: Declare variables num1, num2 and num3.
+* Step 3: Read values for num1, num2, num3
+* Step 4: sort num1 and num2 and num3
+* Step 5: Display sorted nums
+* Step 6: Stop
+

@@ -1,0 +1,15 @@
+Step 1: Start
+Step 2: Declare variables num1, num2 to n.
+Step 3: Read values for num1, num2 to n
+Step 4: While num1, num2…n is positive add and assign the result to a variable sum
+Step 5: Else break
+Step 6:  Display sum
+Step 7: Stop
+
+
+
+
+
+
+
+
